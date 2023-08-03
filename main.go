@@ -15,5 +15,5 @@ func main() {
 
 	router.SetupRoutes(app)
 
-	app.Listen(":8080")
+	app.Listen(":443")
 }
